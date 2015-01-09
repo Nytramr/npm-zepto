@@ -3,7 +3,7 @@ umd-zepto
 
 An automatic UMD Zepto wrapper
 
-See [zeptojs.com][] for an extended introduction and documentation.
+See [zeptojs.com](http://zeptojs.com/) for an extended introduction and documentation.
 
 Zepto.js and npm-zepto are licensed under the terms of the MIT License.
 
