@@ -3,7 +3,7 @@ npm-zepto
 
 An automatic CommonJS Zepto wrapper
 
-Zepto varsion 1.1.4
+Zepto version 1.1.4
 
 See [zeptojs.com](http://zeptojs.com/) for an extended introduction and documentation.
 
