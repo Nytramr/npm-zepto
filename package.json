@@ -1,6 +1,6 @@
 {
   "name": "npm-zepto",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An automatic CommonJS Zepto wrapper",
   "main": "index.js",
   "scripts": {
