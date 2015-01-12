@@ -9,4 +9,4 @@ if [ -f index.js ]; then
   rm index.js;
 fi
 
-cat zepto/dist/zepto.js _index.js > index.js
+cat zepto/dist/zepto.js _amd_index.js > index.js

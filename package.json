@@ -1,7 +1,7 @@
 {
-  "name": "umd-zepto",
-  "version": "0.0.2",
-  "description": "An automatic UMD Zepto wrapper",
+  "name": "npm-zepto",
+  "version": "0.1.0",
+  "description": "An automatic CommonJS Zepto wrapper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +14,10 @@
   "keywords": [
     "zepto",
     "jquery",
-    "umd"
+    "npm",
+    "AMD",
+    "CommonJS",
+    "RequireJS"
   ],
   "author": "Martin Rubinsztein",
   "license": "MIT",
