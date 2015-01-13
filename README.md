@@ -1,3 +1,5 @@
+[![](https://img.shields.io/gratipay/Martin%20Rubinsztein.svg)](https://gratipay.com/Martin%20Rubinsztein/)
+
 npm-zepto
 =========
 
