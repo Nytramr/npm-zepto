@@ -20,7 +20,7 @@ $ npm install npm-zepto
 Then you can include it using CommonJS as you pleased.
 
 ```javascript
-var zepto = require('zepto');
+var zepto = require('npm-zepto');
 ```
 
 > We have desided compiling **npm-zepto** as a CommonJS type library instead a UMD.
