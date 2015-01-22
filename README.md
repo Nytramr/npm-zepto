@@ -5,7 +5,7 @@ npm-zepto
 
 An automatic CommonJS Zepto wrapper
 
-Current zepto version: 1.1.4
+Current zepto version: 1.1.6
 
 See [zeptojs.com](http://zeptojs.com/) for an extended introduction and documentation.
 
