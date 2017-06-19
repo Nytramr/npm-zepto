@@ -23,6 +23,9 @@ Then you can include it using CommonJS as you pleased.
 var zepto = require('npm-zepto');
 ```
 
+## Windows
+Shown to work on Windows 10 by installing Git for Windows and running from Git Bash.
+
 > We have desided compiling **npm-zepto** as a CommonJS type library instead a UMD.
 > Nonetheless if you need a AMD library you can clone the repo an run the amd_build script in order to buil a RequiredJS compatible Zepto library.
 
